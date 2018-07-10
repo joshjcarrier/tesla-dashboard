@@ -2,6 +2,7 @@
   "name": "tesla-dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://joshjcarrier-tesla.netlify.com",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
